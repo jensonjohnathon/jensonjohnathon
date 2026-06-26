@@ -1,4 +1,4 @@
-### Moin Moin, 
+### Moin, 
 
 I'm an open source contributor and working student. Currently learning systems programming. 
 
